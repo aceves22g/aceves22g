@@ -1,10 +1,9 @@
-hi! I'm Dam Aceves, nice to meet you (๑'ᴗ')ゞ
-<br>
+# hi! I'm Dam Aceves, nice to meet you (๑'ᴗ')ゞ
+    voa insertar una imagen bn perra aqui
+## —about me ‹ 🐸 ›
 
-—about me ‹ 🐸 ›
-<br>
-★ I go by <strong>she/he</strong> pronouns.
-<br>
-☆ I'm studying <i>mechatronic engineering</i>.
-<br>
+★ I go by **_she/he_** pronouns.
+
+☆ I'm studying _mechatronic engineering_.
+
 ★ I like anime 🧓
